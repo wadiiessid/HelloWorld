@@ -23,7 +23,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 	</properties>
-<!-- partie dépendances -->
+<!-- partie dépendances pour 53 -->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
